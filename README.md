@@ -30,4 +30,5 @@ This project contains examples of **Object-Oriented Programming (OOP)** concepts
 
 ```bash
 python smartphone.py
-python polymorphisms.py
+python polymorphism.py
+
